@@ -22,7 +22,7 @@ Support `TUN/TAP`
 
       ![1](https://github.com/wettera/CS305-IP-over-DNS/blob/master/command_screenshot/1.png)
 
-​          ![2](https://github.com/wettera/CS305-IP-over-DNS/blob/master/command_screenshot/2.png)
+​           ![2](https://github.com/wettera/CS305-IP-over-DNS/blob/master/command_screenshot/2.png)
 
 2. open another view on putty and use the command `ping 10.10.10.2`  on the client side and `ping 10.10.10.1` on the server side to test whether the connection is build. The results are as follow.
 
